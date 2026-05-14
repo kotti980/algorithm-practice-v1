@@ -54,5 +54,7 @@ public class QuickSort {
         for (int n : data) {
             System.out.print(n + " ");
         }
+        System.out.println("\nSorting completed.");
     }
+    
 }
